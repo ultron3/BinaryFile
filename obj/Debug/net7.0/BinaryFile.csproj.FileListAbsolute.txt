@@ -1,0 +1,15 @@
+C:\Users\IdeaPad\OneDrive\Documenti\BinaryFile\bin\Debug\net7.0\BinaryFile.exe
+C:\Users\IdeaPad\OneDrive\Documenti\BinaryFile\bin\Debug\net7.0\BinaryFile.deps.json
+C:\Users\IdeaPad\OneDrive\Documenti\BinaryFile\bin\Debug\net7.0\BinaryFile.runtimeconfig.json
+C:\Users\IdeaPad\OneDrive\Documenti\BinaryFile\bin\Debug\net7.0\BinaryFile.dll
+C:\Users\IdeaPad\OneDrive\Documenti\BinaryFile\bin\Debug\net7.0\BinaryFile.pdb
+C:\Users\IdeaPad\OneDrive\Documenti\BinaryFile\obj\Debug\net7.0\BinaryFile.csproj.AssemblyReference.cache
+C:\Users\IdeaPad\OneDrive\Documenti\BinaryFile\obj\Debug\net7.0\BinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IdeaPad\OneDrive\Documenti\BinaryFile\obj\Debug\net7.0\BinaryFile.AssemblyInfoInputs.cache
+C:\Users\IdeaPad\OneDrive\Documenti\BinaryFile\obj\Debug\net7.0\BinaryFile.AssemblyInfo.cs
+C:\Users\IdeaPad\OneDrive\Documenti\BinaryFile\obj\Debug\net7.0\BinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\IdeaPad\OneDrive\Documenti\BinaryFile\obj\Debug\net7.0\BinaryFile.dll
+C:\Users\IdeaPad\OneDrive\Documenti\BinaryFile\obj\Debug\net7.0\refint\BinaryFile.dll
+C:\Users\IdeaPad\OneDrive\Documenti\BinaryFile\obj\Debug\net7.0\BinaryFile.pdb
+C:\Users\IdeaPad\OneDrive\Documenti\BinaryFile\obj\Debug\net7.0\BinaryFile.genruntimeconfig.cache
+C:\Users\IdeaPad\OneDrive\Documenti\BinaryFile\obj\Debug\net7.0\ref\BinaryFile.dll
