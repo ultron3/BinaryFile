@@ -9,7 +9,7 @@ public class Program
         ICopy copyFile=new CopyFile("app.exe","app-copy.exe");
        copyFile.Copy();
 
-        IInverted file=new InvertedFile("app.exe","app.inv");
+        IInverted file=new InvertedFile("menu.csv","menu.txt");
         file.Inverted();
 
         EncryptBmpImage image=new EncryptBmpImage("logo.bmp");

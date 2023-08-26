@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\IdeaPad\\OneDrive\\Documenti\\BinaryFile\\BinaryFile.csproj": {}
+    "C:\\Users\\IdeaPad\\OneDrive\\Documenti\\BinaryFile\\BinaryFile.csproj": {}
   },
   "projects": {
-    "c:\\Users\\IdeaPad\\OneDrive\\Documenti\\BinaryFile\\BinaryFile.csproj": {
+    "C:\\Users\\IdeaPad\\OneDrive\\Documenti\\BinaryFile\\BinaryFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\IdeaPad\\OneDrive\\Documenti\\BinaryFile\\BinaryFile.csproj",
+        "projectUniqueName": "C:\\Users\\IdeaPad\\OneDrive\\Documenti\\BinaryFile\\BinaryFile.csproj",
         "projectName": "BinaryFile",
-        "projectPath": "c:\\Users\\IdeaPad\\OneDrive\\Documenti\\BinaryFile\\BinaryFile.csproj",
+        "projectPath": "C:\\Users\\IdeaPad\\OneDrive\\Documenti\\BinaryFile\\BinaryFile.csproj",
         "packagesPath": "C:\\Users\\IdeaPad\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\IdeaPad\\OneDrive\\Documenti\\BinaryFile\\obj\\",
+        "outputPath": "C:\\Users\\IdeaPad\\OneDrive\\Documenti\\BinaryFile\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
